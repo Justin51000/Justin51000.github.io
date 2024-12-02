@@ -4,3 +4,7 @@ Write a statement (800-1000 words) synthesizing the work you've done and, more i
 * What did you expect digital humanities to be coming into the class? What do you think it is now?
 * Did you discover anything new and exciting about your own interests? Or did some part of our class affirm your own interests?
 * What do you think you did well in your own work? What did you wish you had done better in your own work? How would you revise or redo it, given the chance?
+
+## Looking Forward
+
+Read my hopes for the future [here](lookingforward.html) of the content I learned about in class!
