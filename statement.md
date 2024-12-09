@@ -1,4 +1,4 @@
-[< back](README.html)
+[< back](https://justin51000.github.io/)
 
 Write a statement (800-1000 words) synthesizing the work you've done and, more importantly, reflecting on it in relation to the topics we discussed throughout the semester. In this statement, you should cite two internal sources from the class readings/videos/visits. You should also link to any project work you produced and embed relevant photos. Overall, questions you should answer in this statement may include:
 * What are some of the themes and topics that emerged from our class, in our readings, discussions, and assignments? How did the external workshops augment or challenge what we were doing in class?
