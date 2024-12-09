@@ -11,11 +11,16 @@ Please use the navigation below to explore my interests and experiences relating
 ## Highlights
 <div style="display: flex; justify-content: center; gap: 20px;">
     <div>
-        <img src="IMG_2508.jpg" alt="Zine Making" width="300" />
+        <a href="pennreview.md">
+            <img src="IMG_2508.jpg" alt="Zine Making" width="300" />
+        </a>
         <p style="text-align: center;">Zine Making</p>
     </div>
     <div>
-        <img src="IMG_2971.jpg" alt="Python Workshop" width="300" />
+        <a href="phillyreview.md">
+            <img src="IMG_2971.jpg" alt="Python Workshop" width="300" />
+        </a>
         <p style="text-align: center;">Python Workshop</p>
     </div>
 </div>
+
