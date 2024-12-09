@@ -1,4 +1,4 @@
-# Justin51000.github.io
+# Justin's Repository
 Please use the navigation below to explore my interests and experiences relating to the class. 
 
 ## Navigation
