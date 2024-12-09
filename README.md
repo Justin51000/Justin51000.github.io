@@ -1,13 +1,15 @@
 # Justin51000.github.io
-This is for my final project.
+Welcome to my final project site.
 
-This is a link to my [About page](aboutme.html)
+## Navigation
+- [About Me](aboutme.html)
+- [Reflection Statement](statement.html)
+- [Looking Forward Statement](lookingforward.html)
+- [My Essay on Joseph Welch](https://printinginprisons.org/blog/sewardj/) (Published on Printing in Prisons)
 
-This is a link to my [statement where I reflect on the class](statement.html)
+## Highlights
+### Zine Making
+<img src="IMG_2508.jpg" alt="Zine Making" width="300" />
 
-This is a link to my [statement where I look forward to next steps](lookingforward.html).
-
-This is a link to my [essay](https://printinginprisons.org/blog/sewardj/) on Joseph Welch on the Printing in Prisons website.
-
-![Zine Making](IMG_2508.jpg)
-![Python Workshop](IMG_2971.jpg)
+### Python Workshop
+<img src="IMG_2971.jpg" alt="Python Workshop" width="300" />
