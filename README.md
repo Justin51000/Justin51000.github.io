@@ -9,4 +9,5 @@ This is a link to my [statement where I look forward to next steps](lookingforwa
 
 This is a link to my [essay](https://printinginprisons.org/blog/sewardj/) on Joseph Welch on the Printing in Prisons website.
 
-# ![Graph](output.png)
+![Zine Making](IMG_2508.jpg)
+![Python Workshop](IMG_2971.jpg)
