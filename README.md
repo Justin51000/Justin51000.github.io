@@ -6,7 +6,7 @@ Welcome to my final project site.
 - [Reflection Statement](statement.html)
 - [Looking Forward Statement](lookingforward.html)
 - [My Essay on Joseph Welch](https://printinginprisons.org/blog/sewardj/)
-- See My Other [Digital Humanities Project on Confederate Commemoration](https://falseimage.pennds.org/)
+- [Digital Humanities Project on Confederate Commemoration](https://falseimage.pennds.org/)
 
 ## Highlights
 <div style="display: flex; justify-content: center; gap: 20px;">
