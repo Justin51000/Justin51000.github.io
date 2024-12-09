@@ -8,8 +8,13 @@ Welcome to my final project site.
 - [My Essay on Joseph Welch](https://printinginprisons.org/blog/sewardj/)
 
 ## Highlights
-### Zine Making
-<img src="IMG_2508.jpg" alt="Zine Making" width="300" />
-
-### Python Workshop
-<img src="IMG_2971.jpg" alt="Python Workshop" width="300" />
+<div style="display: flex; justify-content: center; gap: 20px;">
+    <div>
+        <img src="IMG_2508.jpg" alt="Zine Making" width="300" />
+        <p style="text-align: center;">Zine Making</p>
+    </div>
+    <div>
+        <img src="IMG_2971.jpg" alt="Python Workshop" width="300" />
+        <p style="text-align: center;">Python Workshop</p>
+    </div>
+</div>
