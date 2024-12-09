@@ -1,5 +1,5 @@
 # Justin51000.github.io
-Welcome to my final project site.
+Please use the navigation below to explore my interests and experiences relating to the class. 
 
 ## Navigation
 - [About Me](aboutme.html)
