@@ -25,4 +25,4 @@ Please use the navigation below to explore my interests and experiences relating
 </div>
 
 
-[Return to Main Page](README.html)
+[Return to Main Page](README.md)
