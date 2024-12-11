@@ -6,7 +6,6 @@ Please use the navigation below to explore my interests and experiences relating
 - [Reflection Statement](statement.html)
 - [Looking Forward Statement](lookingforward.html)
 - <a href="https://printinginprisons.org/blog/sewardj/" target="_blank">My Essay on Joseph Welch</a>
-- [Digital Humanities Project on Confederate Commemoration](https://falseimage.pennds.org/)
 
 ## Highlights
 <div style="display: flex; justify-content: center; gap: 20px;">
