@@ -4,7 +4,6 @@
 Please use the navigation below to explore my interests and experiences relating to the class Intro to Digital Humanities.
 
 ## Navigation
-- [About Me](aboutme.html)
 - [Reflection Statement](statement.html)
 - [Looking Forward Statement](lookingforward.html)
 - <a href="https://printinginprisons.org/blog/sewardj/" target="_blank">My Essay on Joseph Welch</a>
