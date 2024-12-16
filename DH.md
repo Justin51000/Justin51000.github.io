@@ -1,5 +1,3 @@
-[Return to Main Page](https://justin51000.github.io/)
-
 # Justin's Intro to Digital Humanities Repository
 Please use the navigation below to explore my interests and experiences relating to the class Intro to Digital Humanities.
 
