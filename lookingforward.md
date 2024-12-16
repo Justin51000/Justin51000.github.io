@@ -8,7 +8,7 @@ I plan to use many of the methodological, ethical, and technical skills we’ve 
 2. **Expanding the Black Press Website**  
    I will update and expand my website on the Black press’s views of Confederate commemoration. One addition will be a data exploration page featuring graphs, tables, and statistics to help users engage with the dataset. Another addition will be a new page that adapts my sociology senior honors thesis into a format suitable for online reading, complete with images and graphs integrated into the narrative. These updates will require careful attention to how I present the data and conclusions, ensuring transparency and accessibility while staying true to the historical context. Both the data exploration page and the adapted thesis will draw heavily on the methodological, technical, and ethical considerations we explored in class.
 
-3. **Critical Engagement with Digital Archives and Exhibits**  
+3. **Critical Engagement with Digital Archives and Exhibits in Future Research**  
    As a scholar, I frequently encounter digital archives, museum exhibits, and similar platforms. This class has given me tools to critically assess how such content is constructed and presented. I will use these skills to evaluate the choices made in the design, accessibility, and framing of digital spaces. Whether through formal research or informal analysis, I will consider how these platforms influence public understanding of the materials they present. This critical lens will guide my future engagement with digital content, both as a creator and a user.
 
 
