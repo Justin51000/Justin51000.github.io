@@ -1,5 +1,3 @@
-[< back](DH.html)
-
 # Reflection Statement
 
 I came into this course with a background in digital humanities, having spent the past three years working on projects that bring together historical research and digital presentation and analysis. This experience introduced me to the complexities of working with unstructured historical data, the challenges of representing marginalized voices, and the importance of developing technical skills for analyzing and presenting information. In the summer of 2022, I began working on a project supported by the Penn Center for Undergraduate Research and Fellowships (CURF) with Dr. Donovan Schaefer, documenting the views of the Black press on Confederate commemoration. Over the summer of 2023, I continued this project as a Mellon Fellow in the Price Lab for Digital Humanities. In 2024, I received further support from CURF and the Center for the Study of Ethnicity, Race, and Immigration to carry the work forward. This research forms the foundation of my senior honors thesis in sociology, which examines how the Black press engaged with Confederate commemoration to articulate broader concerns about race and memory. While I had developed ideas about methodology, technical skills, and ethics through my work, this course gave me the opportunity to reflect on those experiences and connect them to discussions in the field of digital humanities. By engaging with readings, class discussions, and hands-on projects, I was able to think more deeply about the choices I make in my research and how they fit into larger debates about the nature and purpose of digital humanities scholarship. This process has clarified how I approach my own work through its methodology, ethics, and technical skills. 
@@ -17,3 +15,5 @@ Organizing the various parts of what goes into digital humanities, this class ha
 ### Looking Forward
 
 Consider my Looking Forward essay found [here](lookingforward.html) to see how I envision using these insights in the future.
+
+[< back](DH.html)
