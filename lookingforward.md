@@ -14,7 +14,7 @@ I plan to use many of the methodological, ethical, and technical skills we’ve 
 <br>
 <div style="text-align: center;">
   <img src="ring.jpg" alt="Ring Object" style="max-width: 50%; height: auto;">
-  <p style="font-style: italic; font-size: 14px; margin-top: 8px;">This is one of my objects from my essay on Didacticism and Iconoclasm.</p>
+  <p style="font-style: italic; font-size: 14px; margin-top: 8px;">One of the objects from my essay on Didacticism and Iconoclasm.</p>
 </div>
 
 <br>
