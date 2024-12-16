@@ -11,5 +11,5 @@ I plan to use many of the methodological, ethical, and technical skills we’ve 
 3. **Critical Engagement with Digital Archives and Exhibits in Future Research**  
    As a scholar, I frequently encounter digital archives, museum exhibits, and similar platforms. This class has given me tools to critically assess how such content is constructed and presented. I will use these skills to evaluate the choices made in the design, accessibility, and framing of digital spaces. Whether through formal research or informal analysis, I will consider how these platforms influence public understanding of the materials they present. This critical lens will guide my future engagement with digital content, both as a creator and a user.
 
-
+<br>
 [< back](DH.html)
