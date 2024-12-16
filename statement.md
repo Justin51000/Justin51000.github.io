@@ -12,6 +12,6 @@ On a more technical level, this course provided valuable opportunities to refine
 
 Organizing the various parts of what goes into digital humanities, this class has helped me make connections between methodology, ethics, and technical skills in data presentation and analysis. It reinforced the importance of approaching historical data with care and understanding the responsibilities involved in representing marginalized voices. Through class readings, discussions, and projects, I gained a clearer framework for thinking about my own work. These insights will inform how I approach future research and continue to engage with the challenges of digital humanities. 
 
-## Looking Forward
+### Looking Forward
 
 Consider my Looking Forward essay found [here](lookingforward.html) to see how I envision using these insights in the future.
